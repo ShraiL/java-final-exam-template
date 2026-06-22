@@ -40,6 +40,7 @@ ein `Book`, `Medicine`, `Car` oder `Student` werden. Die Architektur bleibt glei
 | `Main.java` | JavaFX form, event handler, Stream API and PieChart |
 | `schema.sql` | MySQL database and table |
 | `pom.xml` | JavaFX and MySQL JDBC dependencies |
+| `screenshots/` | Proof that the form, insert, database and chart work |
 
 ## Reference Data
 
@@ -94,11 +95,21 @@ Verify rows in phpMyAdmin:
 SELECT * FROM product;
 ```
 
+## Screenshots for Submission
+
+Before creating the final ZIP, save the required screenshots inside:
+
+```text
+screenshots/
+```
+
+Open [screenshots/README.md](screenshots/README.md) for the exact screenshot list.
+
 ## Files to Read Before the Exam
 
 - [CHANGE_MAP.md](CHANGE_MAP.md): exactly what must change for another ticket
 - [EXAM_CHECKLIST.md](EXAM_CHECKLIST.md): the 30-minute implementation order
 - [TROUBLESHOOTING.md](TROUBLESHOOTING.md): common errors and fixes
+- [screenshots/README.md](screenshots/README.md): required submission screenshots
 - [examples/BOOK_VARIANT.md](examples/BOOK_VARIANT.md): complete rename example
 - [examples/STUDENT_VARIANT.md](examples/STUDENT_VARIANT.md): example using `counting()`
-

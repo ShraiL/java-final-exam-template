@@ -58,7 +58,9 @@
 - [ ] Insert at least two records.
 - [ ] Verify rows in phpMyAdmin.
 - [ ] Verify chart totals.
+- [ ] Save JavaFX form/PieChart screenshot in `screenshots/`.
+- [ ] Save phpMyAdmin table screenshot in `screenshots/`.
+- [ ] Check screenshots do not expose passwords or unrelated private content.
 - [ ] Check project name.
 - [ ] Remove `target`, `out`, `.idea`.
 - [ ] Create ZIP with required student-code filename.
-
