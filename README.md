@@ -20,11 +20,12 @@ ein `Book`, `Medicine`, `Car` oder `Student` werden. Die Architektur bleibt glei
 ## Start Here
 
 1. Lies zuerst [CHANGE_MAP.md](CHANGE_MAP.md).
-2. Starte XAMPP: `Manage Servers` → `MySQL Database` → `Start`.
-3. Öffne `http://localhost/phpmyadmin`.
-4. Führe [schema.sql](schema.sql) aus.
-5. Öffne das Repository als Maven project in IntelliJ.
-6. Starte:
+2. Rename the downloaded folder and Maven project to the name required by the ticket.
+3. Starte XAMPP: `Manage Servers` → `MySQL Database` → `Start`.
+4. Öffne `http://localhost/phpmyadmin`.
+5. Führe [schema.sql](schema.sql) aus.
+6. Öffne das Repository als Maven project in IntelliJ.
+7. Starte:
 
 ```bash
 ./mvnw javafx:run

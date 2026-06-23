@@ -18,6 +18,27 @@ Stream grouping field
 Stream numeric aggregation
 ```
 
+## Step 0: Rename the Project
+
+After downloading the GitHub ZIP:
+
+```text
+java-final-exam-template-preview
+```
+
+rename the folder to:
+
+```text
+Java_Lasha_Murgva_Lominadze_Shraieri
+```
+
+Also update `pom.xml`:
+
+```xml
+<artifactId>Java_Lasha_Murgva_Lominadze_Shraieri</artifactId>
+<name>Java_Lasha_Murgva_Lominadze_Shraieri</name>
+```
+
 ## Step 1: Write the Ticket Map
 
 Example Product ticket:
@@ -219,4 +240,3 @@ public class ProductContract {
 
 It is optional. The original sample repository and final ticket do not require it.
 Use it only if you understand it and have enough time.
-
