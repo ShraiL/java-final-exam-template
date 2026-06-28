@@ -1,6 +1,7 @@
-# Java I Final Exam Template
+# Java_Lasha_Murgva_Lominadze_Shraieri
 
-Dieses Repository ist eine lauffähige Vorlage für den erwarteten Final-Ticket-Typ:
+Dieses Repository ist eine lauffähige Product-App für den erwarteten
+Final-Ticket-Typ:
 
 ```text
 JavaFX form
@@ -16,6 +17,27 @@ PieChart
 
 Die Namen im echten Ticket können anders sein. Zum Beispiel kann aus `Product`
 ein `Book`, `Medicine`, `Car` oder `Student` werden. Die Architektur bleibt gleich.
+
+## Default Exact Ticket Setup
+
+Use this setup when the ticket is the Product version:
+
+```text
+Project name: Java_Lasha_Murgva_Lominadze_Shraieri
+Model class:  Product
+DAO class:    ProductDAO
+Database:     productdb
+Table:        product
+Fields:       id, name, category, quantity, price
+Chart:        group by category, sum quantity
+```
+
+The Maven project name is already set in `pom.xml`:
+
+```xml
+<artifactId>Java_Lasha_Murgva_Lominadze_Shraieri</artifactId>
+<name>Java_Lasha_Murgva_Lominadze_Shraieri</name>
+```
 
 ## Start Here
 

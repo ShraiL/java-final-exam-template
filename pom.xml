@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ge.ug</groupId>
-    <artifactId>java-final-exam-template</artifactId>
+    <artifactId>Java_Lasha_Murgva_Lominadze_Shraieri</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Java Final Exam Template</name>
+    <name>Java_Lasha_Murgva_Lominadze_Shraieri</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -48,4 +48,3 @@
         </plugins>
     </build>
 </project>
-

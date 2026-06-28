@@ -159,6 +159,8 @@ If the real ticket requires your project name, change only these two lines:
 <name>Java_Lasha_Murgva_Lominadze_Shraieri</name>
 ```
 
+In this GitHub version, these two lines are already set correctly for Lasha.
+
 ## Step 5: Create and Copy Java Files
 
 In IntelliJ, right-click `src/main/java`:
