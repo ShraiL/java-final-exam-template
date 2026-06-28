@@ -337,6 +337,12 @@ For the full rename guide, open:
 CHANGE_MAP.md
 ```
 
+For IntelliJ shortcuts and safe rename tips, open:
+
+```text
+INTELLIJ_SHORTCUTS_AND_RENAME_TIPS.md
+```
+
 ## Files You Must Copy
 
 For the normal Product ticket, copy exactly these files:
@@ -359,6 +365,7 @@ target
 out
 README.md
 CHANGE_MAP.md
+INTELLIJ_SHORTCUTS_AND_RENAME_TIPS.md
 EXAM_CHECKLIST.md
 TROUBLESHOOTING.md
 ```
@@ -419,4 +426,3 @@ Fix:
 productDAO.insertProduct(product);
 updatePieChart();
 ```
-

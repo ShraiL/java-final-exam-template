@@ -23,7 +23,8 @@ If you create the project manually in IntelliJ and copy files from GitHub, start
 with the exact guide:
 
 1. [COPY_PASTE_EXAM_TUTORIAL.md](COPY_PASTE_EXAM_TUTORIAL.md)
-2. [CHANGE_MAP.md](CHANGE_MAP.md)
+2. [INTELLIJ_SHORTCUTS_AND_RENAME_TIPS.md](INTELLIJ_SHORTCUTS_AND_RENAME_TIPS.md)
+3. [CHANGE_MAP.md](CHANGE_MAP.md)
 
 If you download the full GitHub ZIP instead:
 
@@ -117,6 +118,7 @@ Open [screenshots/README.md](screenshots/README.md) for the exact screenshot lis
 
 - [CHANGE_MAP.md](CHANGE_MAP.md): exactly what must change for another ticket
 - [COPY_PASTE_EXAM_TUTORIAL.md](COPY_PASTE_EXAM_TUTORIAL.md): exact IntelliJ/XAMPP/manual copy workflow
+- [INTELLIJ_SHORTCUTS_AND_RENAME_TIPS.md](INTELLIJ_SHORTCUTS_AND_RENAME_TIPS.md): Mac shortcuts, Georgian ticket keywords and safe rename workflow
 - [EXAM_CHECKLIST.md](EXAM_CHECKLIST.md): the 30-minute implementation order
 - [TROUBLESHOOTING.md](TROUBLESHOOTING.md): common errors and fixes
 - [screenshots/README.md](screenshots/README.md): required submission screenshots
