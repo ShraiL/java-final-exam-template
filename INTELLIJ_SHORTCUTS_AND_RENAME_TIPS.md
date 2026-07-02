@@ -277,6 +277,12 @@ http://localhost/phpmyadmin
 
 ## What to Explain if Asked
 
+For OneCompiler AI, open:
+
+```text
+ONECOMPILER_FINAL_PROMPT.md
+```
+
 Short explanation:
 
 ```text
@@ -301,4 +307,3 @@ I use PreparedStatement because it safely inserts values into the SQL query.
 The question marks are placeholders, and setString/setInt/setDouble fill them
 in the same order as the SQL columns.
 ```
-
